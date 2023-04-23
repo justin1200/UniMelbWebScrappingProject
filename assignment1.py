@@ -1,7 +1,7 @@
 ############################################################################
 
 """Implamentation for assignment 1 Tasks 1 to 5 for Elements of Data
-Processing (COMP20008) by Justin Aaron Kelley."""
+Processing (COMP20008) by Justin Kelley."""
 
 ############################################################################
 
